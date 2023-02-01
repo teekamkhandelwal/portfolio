@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Teekam Chand Khandelwal </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/teekam-chand-k-1640a2155/">LinkedIn</a> |
+  <a href="https://github.com/teekamkhandelwal">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, SOC Verification, RTL Design,Post Silicon Validation Machine learning & Arduino(Embedded System Design).
+  Working in SOC Verification in AMD from last 1.7 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
